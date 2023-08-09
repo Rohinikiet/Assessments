@@ -1,4 +1,4 @@
-
+#check strings are anagrams or not
 input1 = input("Enter the first string: ")
 input2 = input("Enter the second string: ")
 
